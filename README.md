@@ -23,6 +23,9 @@ Download and install or update [VirtualBox](https://www.virtualbox.org/wiki/Down
 
 ```
 git clone https://github.com/HDI-Project/ATMSeer.git
+
+https://github.com/taowenyin/ATMSeerInitialization/blob/master/Book.md
+
 ```
 
 ### Install and launch
